@@ -222,4 +222,8 @@ footer a:active {
   .digital-date {
     font-size: 40px;
   }
+
+  footer {
+    bottom: 10px;
+  }
 }
