@@ -35,7 +35,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 100px;
+  gap: 80px;
   min-height: 100vh;
   transition: all 0.9s ease-in;
   overflow: hidden;
@@ -224,6 +224,6 @@ footer a:active {
   }
 
   footer {
-    bottom: 10px;
+    bottom: 0;
   }
 }
